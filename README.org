@@ -6,7 +6,7 @@
 
 [[https://github.com/cryptokasten][file:https://img.shields.io/badge/dynamic/json.svg?url=https://api.github.com/users/cryptokasten&label=Cryptokasten&query=$.public_repos]]
 
-** See Also
+See Also:
 
 - [[https://github.com/cryptokasten/python-opencv-open-a-base64-encoded-image][Python OpenCV: Open a Base64 encoded image]]
 
